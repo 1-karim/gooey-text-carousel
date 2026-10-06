@@ -1,6 +1,6 @@
-# Restaurant/Fast Food or Bar Landing page reveal Animation Microproject
+# Gooey Text Reveal Carousel
 
-This microproject showcases a bold reveal animation perfect for bars, restaurants, or fast-food businesses. It highlights smooth motion, layered depth, and a polished cinematic feel using Vite, GSAP, and Lenis.
+This microproject is a carousel with a gooey text reveal effect, designed to feel playful, cinematic, and tactile. It uses layered motion, soft blur, and fluid transitions to create a polished reveal for a modern landing page or brand showcase using Vite, GSAP, and Lenis.
 
 ## Preview
 
